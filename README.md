@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andreza Suzuki</h1>
 <h3 align="center">Passionate about data storytelling and data analysis</h3>
 
-- 🔭 I’m currently working at **The Heineken Company as Insights & Analytics Sr. Analyst**
-
-- 🌱 I’m currently learning **Marketing and Growth**
+- 🔭 I’m currently working at **The Heineken Company as Insights & Analytics Coordinator**
 
 - 💬 Ask me about **Data Storytelling and Power BI**
 
